@@ -1,0 +1,11 @@
+.app {
+  background-color: yellow;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.my-button {
+  display: block;
+}
